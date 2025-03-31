@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "67eaa3198555bd5e5e09dc63"
+  },
+  "CUIT": {
+    "$numberLong": "20357926603"
+  },
+  "companyName": "string",
+  "createdAt": {
+    "$date": "2025-01-31T14:13:32.779Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T14:13:32.779Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67eaa3c41e26085090e35905"
+  },
+  "CUIT": {
+    "$numberLong": "20122671349"
+  },
+  "companyName": "string1",
+  "createdAt": {
+    "$date": "2025-02-28T14:15:23.068Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-28T14:15:23.068Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67eaa3cd1e26085090e35907"
+  },
+  "CUIT": {
+    "$numberLong": "27180936713"
+  },
+  "companyName": "string2",
+  "createdAt": {
+    "$date": "2025-04-30T14:15:23.068Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-30T14:15:23.068Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67eaa3d51e26085090e35909"
+  },
+  "CUIT": {
+    "$numberLong": "27393049869"
+  },
+  "companyName": "string3",
+  "createdAt": {
+    "$date": "2025-03-31T14:15:23.068Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-31T14:15:23.068Z"
+  },
+  "__v": 0
+}]

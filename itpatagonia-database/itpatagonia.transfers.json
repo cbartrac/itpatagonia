@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "67eaaf3db410b8161fc5b684"
+  },
+  "amount": 1,
+  "companyId": {
+    "$oid": "67eaa3d51e26085090e35909"
+  },
+  "debitAccount": false,
+  "creditAccount": true,
+  "createdAt": {
+    "$date": "2025-01-31T14:13:32.779Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T14:13:32.779Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67eab02db410b8161fc5b687"
+  },
+  "amount": 1,
+  "companyId": {
+    "$oid": "67eaa3d51e26085090e35909"
+  },
+  "debitAccount": true,
+  "creditAccount": false,
+  "createdAt": {
+    "$date": "2025-02-03T14:13:32.779Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-03T14:13:32.779Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67eab043b410b8161fc5b688"
+  },
+  "amount": 1,
+  "companyId": {
+    "$oid": "67eaa3d51e26085090e35909"
+  },
+  "debitAccount": false,
+  "creditAccount": true,
+  "createdAt": {
+    "$date": "2025-03-31T14:13:32.779Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-31T14:13:32.779Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67eab047b410b8161fc5b689"
+  },
+  "amount": 1,
+  "companyId": {
+    "$oid": "67eaa3d51e26085090e35909"
+  },
+  "debitAccount": true,
+  "creditAccount": false,
+  "createdAt": {
+    "$date": "2025-04-01T14:13:32.779Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-01T14:13:32.779Z"
+  },
+  "__v": 0
+}]
